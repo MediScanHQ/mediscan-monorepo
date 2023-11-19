@@ -1,0 +1,15 @@
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/MediScanHQ/contracts.git
+[submodule "mediscan-admin-frontend"]
+	path = mediscan-admin-frontend
+	url = https://github.com/MediScanHQ/mediscan-admin-frontend.git
+[submodule "MediscaniOS"]
+	path = MediscaniOS
+	url = https://github.com/MediScanHQ/MediscaniOS
+[submodule "api"]
+	path = api
+	url = https://github.com/MediScanHQ/api.git
+[submodule "aleo"]
+	path = aleo
+	url = https://github.com/MediScanHQ/aleo.git
